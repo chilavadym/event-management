@@ -50,12 +50,12 @@ helps to register an users for on events conducted in college fests with simple 
 
 2. Open XAMPP Control panal and start [apache] and [mysql] .
 
-3. Download project from github(https://github.com/PuneethReddyHC/event-management.git)  
+3. Download project from github(https://github.com/chilavadym/event-management.git)  
     OR follow gitbash commands
     
     i>cd C:\\xampp\htdocs\
     
-    ii>git clone https://github.com/PuneethReddyHC/event-management.git
+    ii>git clone https://github.com/chilavadym/event-management.git
     
 4. extract files in C:\\xampp\htdocs\.
 
@@ -83,15 +83,15 @@ Bye me Cup of coffee
 ### Google pay or phonepay number 9535688928
 
 ## visit my other repository with different admin pages with below link
-https://github.com/PuneethReddyHC/online-shopping-system-with-advanced-admin-page
+https://github.com/chilavadym/online-shopping-system-with-advanced-admin-page
 
-https://github.com/PuneethReddyHC/online-shopping-system-advanced
+https://github.com/chilavadym/online-shopping-system-advanced
 
 ## Screenshots
-![Image of adduser](https://github.com/PuneethReddyHC/event-management/blob/master/screenshots/home.png)
-![Image of adduser](https://github.com/PuneethReddyHC/event-management/blob/master/screenshots/events.png)
-![Image of adduser](https://github.com/PuneethReddyHC/event-management/blob/master/screenshots/about.png)
-![Image of adduser](https://github.com/PuneethReddyHC/event-management/blob/master/screenshots/events1.png)
-![Image of adduser](https://github.com/PuneethReddyHC/event-management/blob/master/screenshots/login.png)
+![Image of adduser](https://github.com/chilavadym/event-management/blob/master/screenshots/home.png)
+![Image of adduser](https://github.com/chilavadym/event-management/blob/master/screenshots/events.png)
+![Image of adduser](https://github.com/chilavadym/event-management/blob/master/screenshots/about.png)
+![Image of adduser](https://github.com/chilavadym/event-management/blob/master/screenshots/events1.png)
+![Image of adduser](https://github.com/chilavadym/event-management/blob/master/screenshots/login.png)
 
 ##  If you like my project hit a star button
